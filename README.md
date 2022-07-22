@@ -1,2 +1,11 @@
-# deno-fresh-islands-shared-state-example
-SImple example project showing how to share state and make it available to islands (super lazy/simple way)
+# fresh project
+
+### Usage
+
+Start the project:
+
+```
+deno task start
+```
+
+This will watch the project directory and restart as necessary.
